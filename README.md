@@ -1,3 +1,3 @@
-Hello, I'm Esteban Freitas, I'm 20 and a computer science student interested in C, C# and Python programming.
+Hello, I'm Esteban, I'm a game designer and programmer mostly focused on Unity.
 
-I'm interested in NLP, have experience with NLTK on python, RNNs (and of course normal NNs) and generative pretrained transformer models on PyTorch and Huggingface.
+I used to do NLP with python.
